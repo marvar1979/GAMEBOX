@@ -1,0 +1,35 @@
+[
+  {
+    "id": 701,
+    "projectId": 101,
+    "title": "Texto del tutorial muy largo",
+    "category": "Usability",
+    "status": "Open",
+    "priority": "Medium",
+    "reporter": 6,
+    "assignedTo": 4,
+    "note": "Comentario interno: podría cansar al jugador durante los primeros minutos."
+  },
+  {
+    "id": 702,
+    "projectId": 101,
+    "title": "El mapa necesita más contraste visual",
+    "category": "Art",
+    "status": "In Review",
+    "priority": "Low",
+    "reporter": 6,
+    "assignedTo": 4,
+    "note": "Agregar sombras suaves o bordes para distinguir mejor caminos y áreas secundarias."
+  },
+  {
+    "id": 703,
+    "projectId": 102,
+    "title": "Sensación de rebote excesiva en curvas",
+    "category": "Gameplay",
+    "status": "Open",
+    "priority": "High",
+    "reporter": 6,
+    "assignedTo": 3,
+    "note": "Observación interna para el equipo de gameplay; el QA formal vive fuera de GameBox."
+  }
+]

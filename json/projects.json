@@ -1,0 +1,53 @@
+[
+  {
+    "id": 101,
+    "name": "Llamalandia",
+    "code": "LLA",
+    "genre": "Aventura Cozy",
+    "engine": "Unity",
+    "platform": "PC / Steam",
+    "owner": 2,
+    "status": "Active",
+    "progress": 72,
+    "sprintId": 201,
+    "dueDate": "2026-10-28",
+    "startDate": "2026-05-11",
+    "version": "0.9.4-beta",
+    "repository": "gitlab.com/paramo-games/llamalandia",
+    "description": "Juego cozy de exploración con llamas, crafting, misiones ligeras y progresión por biomas."
+  },
+  {
+    "id": 102,
+    "name": "Nova Circuit",
+    "code": "NVC",
+    "genre": "Carreras Arcade",
+    "engine": "Unreal",
+    "platform": "PC / Consolas",
+    "owner": 2,
+    "status": "Planning",
+    "progress": 34,
+    "sprintId": 202,
+    "dueDate": "2026-12-08",
+    "startDate": "2026-07-04",
+    "version": "0.3.1-proto",
+    "repository": "github.com/gamebox-studio/nova-circuit",
+    "description": "Carreras futuristas con énfasis en velocidad, mejoras, ligas y estética neon."
+  },
+  {
+    "id": 103,
+    "name": "Echoes of Bloom",
+    "code": "EOB",
+    "genre": "Puzzle Narrativo",
+    "engine": "Godot",
+    "platform": "PC / Móvil",
+    "owner": 5,
+    "status": "Paused",
+    "progress": 58,
+    "sprintId": 203,
+    "dueDate": "2027-01-12",
+    "startDate": "2026-03-22",
+    "version": "0.8.1-internal",
+    "repository": "github.com/gamebox-studio/echoes-bloom",
+    "description": "Puzzle emotivo con narrativa ligera, jardinería mágica y decisiones ambientales."
+  }
+]

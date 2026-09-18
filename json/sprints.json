@@ -1,0 +1,68 @@
+[
+  {
+    "id": 201,
+    "projectId": 101,
+    "name": "Sprint 12",
+    "goal": "Pulir HUD, inventario y primer bioma para la demo de octubre.",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-28",
+    "status": "Active",
+    "plannedPoints": 42,
+    "completedPoints": 30
+  },
+  {
+    "id": 202,
+    "projectId": 102,
+    "name": "Sprint 04",
+    "goal": "Prototipo funcional del circuito central y comportamiento inicial de IA.",
+    "startDate": "2026-09-18",
+    "endDate": "2026-10-01",
+    "status": "Planning",
+    "plannedPoints": 36,
+    "completedPoints": 8
+  },
+  {
+    "id": 203,
+    "projectId": 103,
+    "name": "Sprint 08",
+    "goal": "Revisión de arte, refactor de interacciones y nuevo moodboard.",
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-24",
+    "status": "Paused",
+    "plannedPoints": 28,
+    "completedPoints": 16
+  },
+  {
+    "id": 204,
+    "projectId": 101,
+    "name": "Sprint 11",
+    "goal": "Onboarding, menú y rendimiento del primer bioma.",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-14",
+    "status": "Completed",
+    "plannedPoints": 38,
+    "completedPoints": 36
+  },
+  {
+    "id": 205,
+    "projectId": 101,
+    "name": "Sprint 10",
+    "goal": "Sistema base de crafting e inventario.",
+    "startDate": "2026-08-18",
+    "endDate": "2026-08-31",
+    "status": "Completed",
+    "plannedPoints": 34,
+    "completedPoints": 31
+  },
+  {
+    "id": 206,
+    "projectId": 101,
+    "name": "Sprint 09",
+    "goal": "Primera versión del bosque y sistema de recursos.",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-17",
+    "status": "Completed",
+    "plannedPoints": 30,
+    "completedPoints": 28
+  }
+]

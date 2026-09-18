@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Mariel Vargas",
+    "role": "Admin",
+    "email": "admin@gamebox.local",
+    "password": "Admin123!",
+    "avatar": "MV",
+    "department": "Operations"
+  },
+  {
+    "id": 2,
+    "name": "Lucía Prado",
+    "role": "Producer",
+    "email": "producer@gamebox.local",
+    "password": "Producer123!",
+    "avatar": "LP",
+    "department": "Production"
+  },
+  {
+    "id": 3,
+    "name": "Carlos Méndez",
+    "role": "Developer",
+    "email": "dev@gamebox.local",
+    "password": "Dev123!",
+    "avatar": "CM",
+    "department": "Engineering"
+  },
+  {
+    "id": 4,
+    "name": "Ana Soliz",
+    "role": "Art & UI",
+    "email": "art@gamebox.local",
+    "password": "Art123!",
+    "avatar": "AS",
+    "department": "Art"
+  },
+  {
+    "id": 5,
+    "name": "Diego Soto",
+    "role": "Game Designer",
+    "email": "design@gamebox.local",
+    "password": "Design123!",
+    "avatar": "DS",
+    "department": "Design"
+  },
+  {
+    "id": 6,
+    "name": "Valentina Ríos",
+    "role": "QA",
+    "email": "qa@gamebox.local",
+    "password": "Qa123!",
+    "avatar": "VR",
+    "department": "Quality"
+  }
+]

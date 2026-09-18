@@ -1,0 +1,29 @@
+GAMEBOX — DEMO ACCESS
+=====================
+
+Admin
+Usuario: admin@gamebox.local
+Contraseña: Admin123!
+
+Producer
+Usuario: producer@gamebox.local
+Contraseña: Producer123!
+
+Developer
+Usuario: dev@gamebox.local
+Contraseña: Dev123!
+
+Art & UI
+Usuario: art@gamebox.local
+Contraseña: Art123!
+
+Game Designer
+Usuario: design@gamebox.local
+Contraseña: Design123!
+
+QA
+Usuario: qa@gamebox.local
+Contraseña: Qa123!
+
+NOTA:
+En la pantalla de acceso puedes pulsar la tarjeta de cualquier rol y las credenciales se completarán automáticamente.

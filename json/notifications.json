@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1101,
+    "title": "Release en riesgo",
+    "text": "Steam Demo 0.9.5 tiene 2 elementos pendientes.",
+    "level": "warning",
+    "read": false,
+    "at": "2026-09-17T22:50:00"
+  },
+  {
+    "id": 1102,
+    "title": "Build disponible",
+    "text": "0.9.4-beta está lista para revisión interna.",
+    "level": "info",
+    "read": false,
+    "at": "2026-09-17T21:32:00"
+  },
+  {
+    "id": 1103,
+    "title": "Capacidad alta",
+    "text": "Carlos Méndez supera 85% de carga semanal.",
+    "level": "warning",
+    "read": false,
+    "at": "2026-09-17T18:10:00"
+  }
+]

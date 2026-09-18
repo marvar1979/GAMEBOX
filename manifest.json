@@ -1,0 +1,17 @@
+{
+  "name": "GameBox Studio Operations",
+  "short_name": "GameBox",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#09090c",
+  "theme_color": "#0b0b0f",
+  "description": "Gestión Scrum y producción para estudios de videojuegos.",
+  "icons": [
+    {
+      "src": "assets/img/gamebox-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

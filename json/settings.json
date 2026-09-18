@@ -1,0 +1,40 @@
+{
+  "boardStatuses": [
+    "Backlog",
+    "Todo",
+    "In Progress",
+    "Review",
+    "Done"
+  ],
+  "taskTypes": [
+    "Feature",
+    "Technical",
+    "Design",
+    "Art",
+    "Audio",
+    "Production",
+    "Feedback",
+    "Documentation",
+    "Research"
+  ],
+  "buildStatuses": [
+    "Planned",
+    "Building",
+    "Ready for Review",
+    "Approved",
+    "Blocked"
+  ],
+  "releaseStatuses": [
+    "Planning",
+    "On Track",
+    "At Risk",
+    "Released"
+  ],
+  "feedbackStatuses": [
+    "Open",
+    "In Review",
+    "Resolved"
+  ],
+  "theme": "dark",
+  "studioName": "GameBox Studio"
+}

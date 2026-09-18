@@ -1,0 +1,62 @@
+[
+  {
+    "id": 901,
+    "projectId": 101,
+    "name": "Steam Demo 0.9.5",
+    "version": "0.9.5-beta",
+    "targetDate": "2026-10-02",
+    "status": "At Risk",
+    "owner": 2,
+    "readiness": 76,
+    "checklist": [
+      {
+        "label": "Core scope completado",
+        "done": true
+      },
+      {
+        "label": "Store assets listos",
+        "done": false
+      },
+      {
+        "label": "Build candidata generada",
+        "done": false
+      },
+      {
+        "label": "Changelog preparado",
+        "done": true
+      },
+      {
+        "label": "Aprobación de producción",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": 902,
+    "projectId": 102,
+    "name": "Prototype Review",
+    "version": "0.3.2-proto",
+    "targetDate": "2026-10-05",
+    "status": "Planning",
+    "owner": 2,
+    "readiness": 42,
+    "checklist": [
+      {
+        "label": "Handling base",
+        "done": true
+      },
+      {
+        "label": "HUD prototipo",
+        "done": false
+      },
+      {
+        "label": "IA inicial",
+        "done": false
+      },
+      {
+        "label": "Circuito jugable",
+        "done": true
+      }
+    ]
+  }
+]

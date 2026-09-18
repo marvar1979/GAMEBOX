@@ -1,0 +1,34 @@
+[
+  {
+    "id": 601,
+    "title": "Definition of Done",
+    "category": "Process",
+    "owner": 2,
+    "updatedAt": "2026-09-15",
+    "content": "Una tarea se considera Done cuando tiene entregable funcional, revisión interna, documentación breve y no bloquea otras áreas."
+  },
+  {
+    "id": 602,
+    "title": "Art Direction — Llamalandia",
+    "category": "Art",
+    "owner": 4,
+    "updatedAt": "2026-09-14",
+    "content": "Paleta rosada y cálida, recursos mágicos, biomas suaves y reglas de composición para UI, iconografía y escenas."
+  },
+  {
+    "id": 603,
+    "title": "Sprint Review Playbook",
+    "category": "Scrum",
+    "owner": 2,
+    "updatedAt": "2026-09-13",
+    "content": "Guía para presentar avances, demo, métricas, decisiones pendientes y próximos pasos sin hacer la ceremonia demasiado pesada."
+  },
+  {
+    "id": 604,
+    "title": "Build Naming Convention",
+    "category": "Engineering",
+    "owner": 3,
+    "updatedAt": "2026-09-12",
+    "content": "Formato de versión, ramas y convenciones de changelog para builds internas y candidatas."
+  }
+]

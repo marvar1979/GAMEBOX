@@ -1,0 +1,240 @@
+[
+  {
+    "id": 301,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Diseñar mapa del Bosque Rosa",
+    "type": "Design",
+    "status": "Review",
+    "priority": "High",
+    "storyPoints": 8,
+    "assignee": 5,
+    "dueDate": "2026-09-19",
+    "tags": [
+      "Map Design",
+      "Level"
+    ],
+    "module": "World",
+    "estimateHours": 14,
+    "versionTarget": "0.9.5-beta",
+    "description": "Bloquear layout del bioma, rutas secundarias, puntos de interés y coleccionables."
+  },
+  {
+    "id": 302,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Implementar UI del inventario",
+    "type": "Feature",
+    "status": "In Progress",
+    "priority": "High",
+    "storyPoints": 5,
+    "assignee": 3,
+    "dueDate": "2026-09-18",
+    "tags": [
+      "UI",
+      "Inventory"
+    ],
+    "module": "Inventory",
+    "estimateHours": 12,
+    "versionTarget": "0.9.5-beta",
+    "description": "Pantalla de inventario con categorías, tooltips, navegación y estados visuales."
+  },
+  {
+    "id": 303,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Ilustrar iconos de recursos",
+    "type": "Art",
+    "status": "Done",
+    "priority": "Medium",
+    "storyPoints": 3,
+    "assignee": 4,
+    "dueDate": "2026-09-16",
+    "tags": [
+      "Art",
+      "Icons"
+    ],
+    "module": "UI",
+    "estimateHours": 8,
+    "versionTarget": "0.9.4-beta",
+    "description": "Pack de 24 iconos para recursos, herramientas y crafting."
+  },
+  {
+    "id": 304,
+    "projectId": 102,
+    "sprintId": 202,
+    "title": "Balancear aceleración del vehículo base",
+    "type": "Feature",
+    "status": "Backlog",
+    "priority": "Medium",
+    "storyPoints": 5,
+    "assignee": 3,
+    "dueDate": "2026-09-30",
+    "tags": [
+      "Physics",
+      "Vehicle"
+    ],
+    "module": "Gameplay",
+    "estimateHours": 10,
+    "versionTarget": "0.3.2-proto",
+    "description": "Ajustar aceleración, drift y curva de nitro para sensación arcade."
+  },
+  {
+    "id": 305,
+    "projectId": 102,
+    "sprintId": 202,
+    "title": "Moodboard visual para el menú",
+    "type": "Art",
+    "status": "Todo",
+    "priority": "Low",
+    "storyPoints": 2,
+    "assignee": 4,
+    "dueDate": "2026-09-26",
+    "tags": [
+      "UI",
+      "Branding"
+    ],
+    "module": "UI",
+    "estimateHours": 5,
+    "versionTarget": "0.3.2-proto",
+    "description": "Definir color script, tipografías y referencias para menú principal."
+  },
+  {
+    "id": 306,
+    "projectId": 103,
+    "sprintId": 203,
+    "title": "Refactor de eventos narrativos",
+    "type": "Technical",
+    "status": "Blocked",
+    "priority": "High",
+    "storyPoints": 8,
+    "assignee": 3,
+    "dueDate": "2026-09-23",
+    "tags": [
+      "Narrative",
+      "Events"
+    ],
+    "module": "Narrative",
+    "estimateHours": 16,
+    "versionTarget": "0.8.2-internal",
+    "description": "Unificar disparadores narrativos y evitar duplicidad de diálogos."
+  },
+  {
+    "id": 307,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Checklist de entrega del demo",
+    "type": "Production",
+    "status": "Todo",
+    "priority": "Critical",
+    "storyPoints": 3,
+    "assignee": 2,
+    "dueDate": "2026-09-20",
+    "tags": [
+      "Release",
+      "Demo"
+    ],
+    "module": "Delivery",
+    "estimateHours": 4,
+    "versionTarget": "0.9.5-beta",
+    "description": "Checklist interna de contenidos, fechas, builds, store assets y responsables."
+  },
+  {
+    "id": 308,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Revisar onboarding con feedback interno",
+    "type": "Feedback",
+    "status": "Done",
+    "priority": "Low",
+    "storyPoints": 2,
+    "assignee": 6,
+    "dueDate": "2026-09-17",
+    "tags": [
+      "Feedback"
+    ],
+    "module": "Onboarding",
+    "estimateHours": 3,
+    "versionTarget": "0.9.4-beta",
+    "description": "Consolidar comentarios internos sobre HUD, tutorial y claridad de objetivos."
+  },
+  {
+    "id": 309,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Integrar música dinámica del bosque",
+    "type": "Audio",
+    "status": "In Progress",
+    "priority": "Medium",
+    "storyPoints": 5,
+    "assignee": 3,
+    "dueDate": "2026-09-24",
+    "tags": [
+      "Audio",
+      "Integration"
+    ],
+    "module": "Audio",
+    "estimateHours": 9,
+    "versionTarget": "0.9.5-beta",
+    "description": "Integrar stems ambientales y transiciones según zonas del bioma."
+  },
+  {
+    "id": 310,
+    "projectId": 101,
+    "sprintId": 201,
+    "title": "Actualizar página de Steam para la demo",
+    "type": "Production",
+    "status": "Todo",
+    "priority": "High",
+    "storyPoints": 3,
+    "assignee": 2,
+    "dueDate": "2026-09-25",
+    "tags": [
+      "Steam",
+      "Marketing"
+    ],
+    "module": "Store",
+    "estimateHours": 5,
+    "versionTarget": "0.9.5-beta",
+    "description": "Actualizar screenshots, descripción corta, tags y material de la demo."
+  },
+  {
+    "id": 311,
+    "projectId": 102,
+    "sprintId": 202,
+    "title": "Prototipo de HUD de carrera",
+    "type": "Design",
+    "status": "Review",
+    "priority": "Medium",
+    "storyPoints": 3,
+    "assignee": 4,
+    "dueDate": "2026-09-22",
+    "tags": [
+      "HUD",
+      "UI"
+    ],
+    "module": "UI",
+    "estimateHours": 7,
+    "versionTarget": "0.3.2-proto",
+    "description": "Diseñar velocidad, posición, nitro y minimapa con lectura rápida."
+  },
+  {
+    "id": 312,
+    "projectId": 103,
+    "sprintId": 203,
+    "title": "Actualizar guion de la secuencia inicial",
+    "type": "Design",
+    "status": "Todo",
+    "priority": "Medium",
+    "storyPoints": 3,
+    "assignee": 5,
+    "dueDate": "2026-09-21",
+    "tags": [
+      "Narrative"
+    ],
+    "module": "Narrative",
+    "estimateHours": 6,
+    "versionTarget": "0.8.2-internal",
+    "description": "Reducir exposición y mejorar ritmo del primer encuentro."
+  }
+]

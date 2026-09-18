@@ -1,0 +1,110 @@
+[
+  {
+    "id": 801,
+    "projectId": 101,
+    "name": "Preproducción",
+    "status": "Done",
+    "date": "2026-05-30",
+    "owner": 2,
+    "progress": 100
+  },
+  {
+    "id": 802,
+    "projectId": 101,
+    "name": "Vertical Slice",
+    "status": "Done",
+    "date": "2026-07-18",
+    "owner": 2,
+    "progress": 100
+  },
+  {
+    "id": 803,
+    "projectId": 101,
+    "name": "Alpha",
+    "status": "Done",
+    "date": "2026-08-28",
+    "owner": 2,
+    "progress": 100
+  },
+  {
+    "id": 804,
+    "projectId": 101,
+    "name": "Demo Beta",
+    "status": "Active",
+    "date": "2026-10-02",
+    "owner": 2,
+    "progress": 72
+  },
+  {
+    "id": 805,
+    "projectId": 101,
+    "name": "Release Candidate",
+    "status": "Planning",
+    "date": "2026-10-20",
+    "owner": 2,
+    "progress": 24
+  },
+  {
+    "id": 806,
+    "projectId": 101,
+    "name": "Release",
+    "status": "Planning",
+    "date": "2026-10-28",
+    "owner": 2,
+    "progress": 12
+  },
+  {
+    "id": 807,
+    "projectId": 102,
+    "name": "Concept",
+    "status": "Done",
+    "date": "2026-07-15",
+    "owner": 5,
+    "progress": 100
+  },
+  {
+    "id": 808,
+    "projectId": 102,
+    "name": "Driving Prototype",
+    "status": "Active",
+    "date": "2026-10-01",
+    "owner": 3,
+    "progress": 54
+  },
+  {
+    "id": 809,
+    "projectId": 102,
+    "name": "Vertical Slice",
+    "status": "Planning",
+    "date": "2026-11-10",
+    "owner": 2,
+    "progress": 18
+  },
+  {
+    "id": 810,
+    "projectId": 102,
+    "name": "Alpha",
+    "status": "Planning",
+    "date": "2026-12-08",
+    "owner": 2,
+    "progress": 6
+  },
+  {
+    "id": 811,
+    "projectId": 103,
+    "name": "Narrative Prototype",
+    "status": "Done",
+    "date": "2026-05-20",
+    "owner": 5,
+    "progress": 100
+  },
+  {
+    "id": 812,
+    "projectId": 103,
+    "name": "Art Pass",
+    "status": "Paused",
+    "date": "2026-09-28",
+    "owner": 4,
+    "progress": 58
+  }
+]

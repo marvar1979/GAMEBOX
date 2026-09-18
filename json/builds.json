@@ -1,0 +1,58 @@
+[
+  {
+    "id": 501,
+    "projectId": 101,
+    "version": "0.9.4-beta",
+    "platform": "Windows",
+    "engine": "Unity 6",
+    "date": "2026-09-17",
+    "owner": 3,
+    "status": "Ready for Review",
+    "branch": "prototype/test",
+    "commit": "c3481ff",
+    "size": "2.8 GB",
+    "changelog": "Nuevo HUD, optimización del menú de pausa y tutorial inicial ajustado."
+  },
+  {
+    "id": 502,
+    "projectId": 101,
+    "version": "0.9.5-beta",
+    "platform": "Windows",
+    "engine": "Unity 6",
+    "date": "2026-09-24",
+    "owner": 3,
+    "status": "Planned",
+    "branch": "release/demo",
+    "commit": "pending",
+    "size": "—",
+    "changelog": "Inventario, navegación del mapa, música dinámica y material para la demo."
+  },
+  {
+    "id": 503,
+    "projectId": 102,
+    "version": "0.3.1-proto",
+    "platform": "PC",
+    "engine": "Unreal 5",
+    "date": "2026-09-20",
+    "owner": 3,
+    "status": "Building",
+    "branch": "prototype/handling",
+    "commit": "5d931ea",
+    "size": "4.1 GB",
+    "changelog": "Ajustes de colisiones, IA temprana y nuevo circuito base."
+  },
+  {
+    "id": 504,
+    "projectId": 103,
+    "version": "0.8.1-internal",
+    "platform": "PC",
+    "engine": "Godot 4",
+    "date": "2026-09-12",
+    "owner": 3,
+    "status": "Blocked",
+    "branch": "dev/narrative",
+    "commit": "a4820bb",
+    "size": "1.3 GB",
+    "changelog": "Refactor narrativo con issue pendiente en escenas interactivas."
+  }
+]

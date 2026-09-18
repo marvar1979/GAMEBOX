@@ -1,0 +1,80 @@
+[
+  {
+    "id": 401,
+    "userId": 1,
+    "specialty": "Studio Operations",
+    "availability": "High",
+    "workload": 58,
+    "weeklyCapacity": 40,
+    "assignedHours": 23,
+    "location": "Cochabamba",
+    "timezone": "BOT",
+    "favoriteTool": "Reports",
+    "bio": "Administra el workspace, estructura, permisos y consistencia operativa."
+  },
+  {
+    "id": 402,
+    "userId": 2,
+    "specialty": "Production & Delivery",
+    "availability": "High",
+    "workload": 72,
+    "weeklyCapacity": 40,
+    "assignedHours": 29,
+    "location": "Cochabamba",
+    "timezone": "BOT",
+    "favoriteTool": "Roadmap",
+    "bio": "Coordina roadmap, alcance, fechas, prioridades y comunicación entre áreas."
+  },
+  {
+    "id": 403,
+    "userId": 3,
+    "specialty": "Gameplay Programmer",
+    "availability": "Medium",
+    "workload": 86,
+    "weeklyCapacity": 40,
+    "assignedHours": 34,
+    "location": "La Paz",
+    "timezone": "BOT",
+    "favoriteTool": "Board",
+    "bio": "Implementa sistemas centrales, integra builds y resuelve trabajo técnico."
+  },
+  {
+    "id": 404,
+    "userId": 4,
+    "specialty": "UI / Visual Artist",
+    "availability": "High",
+    "workload": 64,
+    "weeklyCapacity": 40,
+    "assignedHours": 26,
+    "location": "Santa Cruz",
+    "timezone": "BOT",
+    "favoriteTool": "Projects",
+    "bio": "Diseño visual, UI, iconografía, branding y consistencia artística."
+  },
+  {
+    "id": 405,
+    "userId": 5,
+    "specialty": "Game & Level Design",
+    "availability": "Medium",
+    "workload": 78,
+    "weeklyCapacity": 40,
+    "assignedHours": 31,
+    "location": "Cochabamba",
+    "timezone": "BOT",
+    "favoriteTool": "Sprints",
+    "bio": "Diseña niveles, sistemas, balance y experiencia del jugador."
+  },
+  {
+    "id": 406,
+    "userId": 6,
+    "specialty": "Quality Liaison",
+    "availability": "High",
+    "workload": 49,
+    "weeklyCapacity": 40,
+    "assignedHours": 20,
+    "location": "Oruro",
+    "timezone": "BOT",
+    "favoriteTool": "Feedback",
+    "bio": "Coordina observaciones internas y deriva el trabajo QA a herramientas especializadas."
+  }
+]
